@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/13c4e50d889a24085b42d762c9dde4c48a0f8892415d85155f95de54dc59df1f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32632f64352f35352f32636435353531386162313639353139316334343161626233643430363266392e676966" width="100%"/>
-</p>
-
 <div align="center">
   <h1>Dulana Malshan</h1>
   <h3>Frontend Developer | Creative Thinker | IT Undergraduate</h3>
