@@ -4,8 +4,7 @@
   
   <p>
     <a href="https://www.linkedin.com/in/dulana-malshan-499095336/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/your-twitter-username" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="https://your-portfolio-website.com" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-64ffda?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio"/></a>
+    <a href="https://dulana2002.github.io/Dulana_Malshan/"><img src="https://img.shields.io/badge/My_Portfolio-64ffda?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio"/></a>
   </p>
 </div>
 
