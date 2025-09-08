@@ -16,7 +16,7 @@ I'm a passionate IT undergraduate at the **Sabaragamuwa University of Sri Lanka*
 
 - 🌱 Currently diving deep into **Full-Stack Development** with the MERN stack.
 - 💬 Ask me about **React, UI/UX Design, and Java**.
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 How to reach me: **[dulanamalshan@gmail.com](dulanamalshan@gmail.com)**
 
 ---
 
